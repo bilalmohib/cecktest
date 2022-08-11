@@ -8,8 +8,6 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello muhammad</h1>
-      <h2>can you create a cascading dropdowns - look at the city.js file</h2>
       <h2>
         Please create 3 drops downs first one gives country, choose city,
         choose habit
